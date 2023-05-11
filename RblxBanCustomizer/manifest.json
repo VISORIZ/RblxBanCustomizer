@@ -1,0 +1,22 @@
+{
+	"manifest_version": 2,
+	"name": "Roblox Ban Customizer",
+	"description": "Customize the Roblox moderation message. Made By VISORIZ",
+	"version": "1.0",
+	"icons": {
+		"16": "/images/banhammer16.png",
+		"48": "/images/banhammer48.png",
+		"128": "/images/banhammer128.png"
+	},
+	"page_action": {
+		"default_icon": {
+			"16": "/images/banhammer16-2.png",
+			"48": "/images/banhammer48-2.png",
+			"128": "/images/banhammer128-2.png"
+		}
+	},
+	"content_scripts": [{
+		"matches": ["https://www.roblox.com/not-approved"],
+		"css": ["main.css"]
+	}]
+}

@@ -1,0 +1,13 @@
+html body div[id="wrap"] main[id="container-main"] div.not-approved-page-content div.not-approved-page {
+	background: url(https://tr.rbxcdn.com/aa265c67907f62a05eaaeb43cb259070/420/420/Decal/Png);
+	padding: 50px 50px;
+	background-repeat: no-repeat;
+	background-position-x: -5px;
+	background-position-y: -105px;
+	background-size: 810px 950px;
+	
+}
+
+html body div[id="wrap"] main[id="container-main"] div.not-approved-page-content div.not-approved-page div.message-container h3.error-title {
+	text-align: center;
+}
