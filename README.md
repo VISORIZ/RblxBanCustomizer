@@ -12,9 +12,6 @@ This Extension is completely open-sourced and free to edit the images and text!
 To change the image you must know that you cannot change it to something that isnt already on Roblox. You can use any image on the [Marketplace](https://create.roblox.com/marketplace/images). Just right click the image and click Copy Image Link. Then, paste it over the already existing image link in the `main.css` file. Or, if you're feeling it, you can just straight up remove the background stuff from the extension so it goes back to default Roblox background.
 
 **IMPORTANT**: If you edit the extension you have to refresh it every time you do so. To do this, Go back to the "Manage Extensions" page and find the extension in the list, once you found it click the spirialing arrows button.
-## WARNING
-
-It will have an error because the manifest-version is on 2 because it **WILL NOT WORK** upgrading it. (manifest-version 2 is depricated).
 ## How to Install
 **1.** Download the *latest* version
  
