@@ -26,3 +26,7 @@ To change the image you must know that you cannot change it to something that is
 **6.** Click Load Unpacked and find the folder which you unzipped and select it.
 
 And just like that you have installed it!
+
+# EXTERNAL LINKS
+
+[Discord](https://discord.gg/BAvtpX8Ght)
