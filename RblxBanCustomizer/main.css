@@ -1,13 +1,50 @@
-html body div[id="wrap"] main[id="container-main"] div.not-approved-page-content div.not-approved-page {
-	background: url(https://tr.rbxcdn.com/aa265c67907f62a05eaaeb43cb259070/420/420/Decal/Png);
-	padding: 50px 50px;
+html body div[id="wrap"] main[id="container-main"] div.content {
+	background-color: #ff3f3f;
+}
+html body div[id="wrap"] main[id="container-main"] {
+	background-color: #ff3f3f;
+}
+html body div[id="wrap"] footer.container-footer {
+	background-color: #ff3f3f;
+}
+html body div[id="wrap"] footer.container-footer div.footer ul.footer-links li.footer-link a.text-footer-nav {
+	color: #ffffff;
+}
+html body div[id="wrap"] footer.container-footer div.footer div.copyright-container div.col-md-9 p.footer-note {
+	color: #ffffff;
+}
+html body div[id="wrap"] main[id="container-main"] div.content div.not-approved-page-content div.not-approved-page {
+	background: url(https://tr.rbxcdn.com/f9e96f4e145f310b0948118f5a9bed01/420/420/Decal/Png);
+	padding: 100px 100px;
 	background-repeat: no-repeat;
-	background-position-x: -5px;
-	background-position-y: -105px;
-	background-size: 810px 950px;
+	background-position-x: center;
+	background-position-y: top;
+	background-size: 100px 100px;
 	
 }
-
-html body div[id="wrap"] main[id="container-main"] div.not-approved-page-content div.not-approved-page div.message-container h3.error-title {
+html body div[id="wrap"] main[id="container-main"] div.content div.not-approved-page-content div.not-approved-page div.message-container {
+	color: #ffffff;
+}
+html body div[id="wrap"] main[id="container-main"] div.content div.not-approved-page-content div.not-approved-page div.message-container h3.error-title {
 	text-align: center;
+}
+html body div[id="wrap"] main[id="container-main"] div.content div.not-approved-page-content div.not-approved-page div.message-container p.message-section {
+	color: #ffffff;
+	text-align: center;
+}
+html body div[id="wrap"] main[id="container-main"] div.content div.not-approved-page-content div.not-approved-page div.message-container div[style="text-align: center;"] div.checkbox label[for="agree-checkbox"] {
+	color: rgb(255 255 255);
+}
+html body div[id="wrap"] main[id="container-main"] div.content div.not-approved-page-content div.not-approved-page div.action-buttons button[id="logout-button"] {
+	border-color: #ffffff;
+	color: rgb(255 255 255);
+}
+html body div[id="wrap"] main[id="container-main"] div.content div.not-approved-page-content div.not-approved-page div.message-container p.message-section a[href="https://www.roblox.com/info/terms"] {
+	color: #444444;
+}
+html body div[id="wrap"] main[id="container-main"] div.content div.not-approved-page-content div.not-approved-page div.message-container p.message-section a[href="https://www.roblox.com/info/community-guidelines"] {
+	color: #444444;
+}
+html body div[id="wrap"] main[id="container-main"] div.content div.not-approved-page-content div.not-approved-page div.message-container p.message-section a[href="https://www.roblox.com/support"] {
+	color: #444444;
 }
